@@ -7,7 +7,7 @@
   "rich-text": {
   	"props": {
   		"text": "**Holi Rich Text**",
-  		"textPosition": "CENTER"
+  		"textPosition": "RIGHT"
   	}
   }
 }
