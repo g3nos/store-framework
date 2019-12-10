@@ -6,7 +6,8 @@
   },
   "rich-text": {
   	"props": {
-  		"text": "Holi Rich Text"
+  		"text": "**Holi Rich Text**",
+  		"textPosition": "CENTER"
   	}
   }
 }
